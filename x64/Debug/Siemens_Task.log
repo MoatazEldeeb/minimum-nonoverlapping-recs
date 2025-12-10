@@ -1,0 +1,20 @@
+﻿  FileHandler.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(61,12): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(61,24): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\tuple(24,1): message : see declaration of 'std'
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(61): error C3861: 'exists': identifier not found
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(62,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(62,20): error C2039: 'create_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\tuple(24,1): message : see declaration of 'std'
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(62,36): error C3861: 'create_directory': identifier not found
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(66,12): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(66,24): error C2039: 'exists': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\tuple(24,1): message : see declaration of 'std'
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(66): error C3861: 'exists': identifier not found
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(67,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(67,20): error C2039: 'create_directory': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\tuple(24,1): message : see declaration of 'std'
+C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\Siemens_Task\FileHandler.cpp(67,36): error C3861: 'create_directory': identifier not found
+  test.cpp
+  Generating Code...

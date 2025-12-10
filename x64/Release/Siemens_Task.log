@@ -1,0 +1,10 @@
+﻿  FileHandler.cpp
+  GroupNonOverlappingRectangles.cpp
+  Siemens_Task.cpp
+  test.cpp
+  Generating code
+  975 of 994 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Siemens_Task.vcxproj -> C:\Users\Eldeeb\Downloads\Siemens_Task\Siemens_Task\x64\Release\Siemens_Task.exe
